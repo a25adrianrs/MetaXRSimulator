@@ -1,0 +1,1 @@
+- Se supone que debia probar el MetaXRSimulator pero como bien comprobamos en clase no hay soporte para Tarjetas AMD y no se podia usar en mi caso
